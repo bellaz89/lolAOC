@@ -22,7 +22,6 @@ size_t depth() {
 #endif
 };
 
-
 int main() {
   printf("%zu\n", depth<0,
 #include "input"
