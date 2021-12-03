@@ -1,4 +1,4 @@
-# Solutions for d1 of AOC in C++
+# Solutions for d2 of AOC in C++
 
 The solution runs in O(0)..
 
